@@ -18,7 +18,6 @@ A basic forticlient script to connect to vpn using a script like you would with 
     
     You should see the following: 
     ```
-     ...
      STATUS::Login succeed
      STATUS::Starting PPPd
      STATUS::Initializing tunnel
